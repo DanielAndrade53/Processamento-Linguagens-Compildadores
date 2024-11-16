@@ -1,6 +1,6 @@
 # Exercicios escolhidos
 
-- Exercicio 3 TP1
+- Exercicio 3 para o TP1
 
 ## Enunciados
 
