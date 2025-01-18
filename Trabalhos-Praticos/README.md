@@ -6,7 +6,7 @@
 
 - [Enunciado TP1](https://github.com/DanielAndrade53/Processamento-Linguagens-Compildadores/blob/main/Trabalhos-Praticos/TP1/plc24tp1.pdf)
 
-- [Enunciado TP2]()
+- [Enunciado TP2](https://github.com/DanielAndrade53/Processamento-Linguagens-Compildadores/blob/main/Trabalhos-Praticos/TP2/plc24tp2.pdf)
 
 ## Autores
 
