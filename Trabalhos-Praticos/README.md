@@ -1,6 +1,8 @@
-# Exercicios escolhidos
+# Notas
 
-- Exercicio 3 para o TP1
+- TP1 : 17
+
+- TP2 : 20
 
 ## Enunciados
 
